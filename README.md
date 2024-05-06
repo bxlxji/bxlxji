@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hey I'm Balaji!
+
+Welcome welcome!
+
+##Certifications
+
+
+##Github Projects
+
+
+##Coding Languages
+
+
+
+##Other Interests
+
+
+
+
+
+
+
+
 
 <!--
 **bxlxji/bxlxji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
