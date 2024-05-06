@@ -1,4 +1,4 @@
-<h1>Hey, I'm Balaji! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hey, I'm Balaji! <br/><a href="https://github.com/bxlxji">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -15,19 +15,20 @@
 
 <h2>🧭 Certifications</h2>
 
-- [Data Structures and Algorithms](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Object Oriented Programming with Java](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Ubuntu Server Development](https://)
-- [Amazon Web Services with Hiroko Nishimura](https://)
-
+- [Programming Foundations: Algorithms (2018) By Joe Marini](https://www.linkedin.com/learning/programming-foundations-algorithms-2018/algorithms-power-the-world?u=92695330)
+- [Programming Foundations: Databases By Scott Simpson](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=92695330)
+- [Object-Oriented Programming with Java By June Clarke and Madecraft](https://www.linkedin.com/learning/object-oriented-programming-with-java/it-s-time-up-your-game-in-java?u=92695330)
+- [Advanced Python By Joe Marini](https://www.linkedin.com/learning/advanced-python/welcome?u=92695330)
+- [Building an Ubuntu Server](https://www.linkedin.com/learning/building-an-ubuntu-server/building-an-ubuntu-server?u=92695330)
+- [AWS Certified Cloud Practitioner (CLF-C01) Cert Prep - 1,2,3,4 By Hiroko Nishimura](https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts/how-did-we-get-in-the-cloud?u=92695330)
 
 <h2>📺 Other Interests</h2>
 
-- [Retro Game Emulation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Retro Game Emulation](https://docs.libretro.com/start/understanding/)
 - [Baking](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Gardening](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Gardening](https://youtu.be/-CxP0Thljr4?si=rUII6fTxfcI33fCE)
 - [Reading Books](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Media Server for Home Use](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Media Server for Home Use](https://jellyfin.org/docs/)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -37,10 +38,10 @@
 [<img align="left" alt="bxlxji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bxlxji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/bxlxji
-[youtube]: https://www.youtube.com/c/bxlxji
+[twitter]: https://twitter.com/balaji.mrgn
+[youtube]: [https://www.youtube.com/c/bxlxji](https://www.youtube.com/channel/UCvk8Ykykw7QrtSJ8iRMJ0dw)
 [instagram]: https://www.instagram.com/balaji.mrgn/
-[linkedin]: https://linkedin.com/in/bxlxji
+[linkedin]: [https://linkedin.com/in/bxlxji](https://www.linkedin.com/in/balaji-m-975694207/)
 
 
 
