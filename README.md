@@ -3,15 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+  - [Praciting DS & Algos in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/bxlxji/Algorithms-and-Data-Structures-Practice---Balaji-s-Personal-Practice))
+<!--
+- <b>heading</b>
+  - [link display](https://github.com/actuallink)
+-->
 
 <h2>🧭 Certifications</h2>
 
@@ -32,17 +28,20 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-[<img align="left" alt="bxlxji | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bxlxji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bxlxji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bxlxji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/balaji.mrgn
-[youtube]: [https://www.youtube.com/c/bxlxji](https://www.youtube.com/channel/UCvk8Ykykw7QrtSJ8iRMJ0dw)
-[instagram]: https://www.instagram.com/balaji.mrgn/
-[linkedin]: [https://linkedin.com/in/bxlxji](https://www.linkedin.com/in/balaji-m-975694207/)
-
+<p>
+    <i class="fa fa-envelope" aria-hidden="true"></i>
+    <a href="mailto:balajimurugan9@gmail.com">Email: balajimurugan9@gmail.com</a>
+</p>
+<p>
+    <i class="fab fa-github" aria-hidden="true"></i>
+    <a href="https://github.com/bxlxji">Github: bxlxji </a>
+</p>
+<p>
+    <i class="fab fa-linkedin" aria-hidden="true"></i>
+    <a href="https://www.linkedin.com/in/balaji-m-975694207/">Linkedin: balaji-m</a>
+</p>
 
 
 
@@ -53,13 +52,9 @@ Welcome welcome!
 
 ##Certifications
 
-
 ##Github Projects
 
-
 ##Coding Languages
-
-
 
 ##Other Interests
 
