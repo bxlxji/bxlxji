@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos using Python](https://github.com/bxlxji/Algorithms-and-Data-Structures-Practice---Balaji-s-Personal-Practice))
+- <b>Data Structures and Algorithms Practice </b>
+  - [Practicing DS & Algos using Python](https://github.com/bxlxji/Algorithms-and-Data-Structures-Practice---Balaji-s-Personal-Practice)
+- <b>My Final Year Project from Bachelors in Computer Science Engineering</b>
+  - [bxlxji/Final-Year-Project-BTech-2022-2023](https://github.com/bxlxji/Final-Year-Project-BTech-2022-2023)
 <!--
 - <b>heading</b>
   - [link display](https://github.com/actuallink)
