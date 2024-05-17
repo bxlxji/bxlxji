@@ -3,9 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Practicing DS & Algos using Python](https://github.com/bxlxji/Algorithms-and-Data-Structures-Practice---Balaji-s-Personal-Practice)
+  - [Algorithms and Data Structures Practice using Python](https://github.com/bxlxji/Algorithms-and-Data-Structures-Practice---Balaji-s-Personal-Practice)
 - <b>My Final Year Project from Bachelors in Computer Science Engineering</b>
-  - [bxlxji/Final-Year-Project-BTech-2022-2023](https://github.com/bxlxji/Final-Year-Project-BTech-2022-2023)
+  - [Final-Year-Project-BTech-2022-2023](https://github.com/bxlxji/Final-Year-Project-BTech-2022-2023)
+- <b>Mini Games In Python</b>
+  - [Mini Games](https://github.com/bxlxji/Projects-in-Python)
 <!--
 - <b>heading</b>
   - [link display](https://github.com/actuallink)
